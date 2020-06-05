@@ -1,0 +1,9 @@
+E:\已整理\DotNetSample\DotNetSample1\DotNetSample1\bin\Debug\DotNetSample1.exe.config
+E:\已整理\DotNetSample\DotNetSample1\DotNetSample1\bin\Debug\DotNetSample1.exe
+E:\已整理\DotNetSample\DotNetSample1\DotNetSample1\bin\Debug\DotNetSample1.pdb
+E:\已整理\DotNetSample\DotNetSample1\DotNetSample1\obj\Debug\DotNetSample1.Main.resources
+E:\已整理\DotNetSample\DotNetSample1\DotNetSample1\obj\Debug\DotNetSample1.Properties.Resources.resources
+E:\已整理\DotNetSample\DotNetSample1\DotNetSample1\obj\Debug\DotNetSample1.csproj.GenerateResource.cache
+E:\已整理\DotNetSample\DotNetSample1\DotNetSample1\obj\Debug\DotNetSample1.csproj.CoreCompileInputs.cache
+E:\已整理\DotNetSample\DotNetSample1\DotNetSample1\obj\Debug\DotNetSample1.exe
+E:\已整理\DotNetSample\DotNetSample1\DotNetSample1\obj\Debug\DotNetSample1.pdb
