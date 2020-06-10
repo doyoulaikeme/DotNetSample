@@ -1,0 +1,10 @@
+E:\已整理\source\DotNetSample3\SocketWebServer\SocketWebServer\bin\Debug\SocketWebServer.exe.config
+E:\已整理\source\DotNetSample3\SocketWebServer\SocketWebServer\bin\Debug\SocketWebServer.exe
+E:\已整理\source\DotNetSample3\SocketWebServer\SocketWebServer\bin\Debug\SocketWebServer.pdb
+E:\已整理\source\DotNetSample3\SocketWebServer\SocketWebServer\obj\Debug\SocketWebServer.Main.resources
+E:\已整理\source\DotNetSample3\SocketWebServer\SocketWebServer\obj\Debug\SocketWebServer.Properties.Resources.resources
+E:\已整理\source\DotNetSample3\SocketWebServer\SocketWebServer\obj\Debug\SocketWebServer.csproj.GenerateResource.cache
+E:\已整理\source\DotNetSample3\SocketWebServer\SocketWebServer\obj\Debug\SocketWebServer.csproj.CoreCompileInputs.cache
+E:\已整理\source\DotNetSample3\SocketWebServer\SocketWebServer\obj\Debug\SocketWebServer.exe
+E:\已整理\source\DotNetSample3\SocketWebServer\SocketWebServer\obj\Debug\SocketWebServer.pdb
+E:\已整理\source\DotNetSample3\SocketWebServer\SocketWebServer\obj\Debug\SocketWebServer.csprojAssemblyReference.cache

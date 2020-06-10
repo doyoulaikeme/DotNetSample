@@ -1,0 +1,10 @@
+#heading-cnt {background-image: none;
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/heading-cnt.png', sizingMethod='image');}
+#side-nav ul li .link {background-image: none;
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/side-nav.png', sizingMethod='image');}
+#heading-box-cnt {background-image: none;
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/heading-box.png', sizingMethod='image');}
+.featured-main-details-cnt {background-image: none;
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/featured-main-details.png', sizingMethod='scale');}
+a.button {background-image: none;
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='css/images/button.png', sizingMethod='image');}
